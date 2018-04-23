@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavBarExample.Module", "NavBarExample.Module\NavBarExample.Module.csproj", "{72767A8B-710C-4847-ADF6-76DCE78BF921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavBarExample.Module.Web", "NavBarExample.Module.Web\NavBarExample.Module.Web.csproj", "{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavBarExample.Web", "NavBarExample.Web\NavBarExample.Web.csproj", "{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72767A8B-710C-4847-ADF6-76DCE78BF921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72767A8B-710C-4847-ADF6-76DCE78BF921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72767A8B-710C-4847-ADF6-76DCE78BF921}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{72767A8B-710C-4847-ADF6-76DCE78BF921}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{72767A8B-710C-4847-ADF6-76DCE78BF921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72767A8B-710C-4847-ADF6-76DCE78BF921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFD6FED-7905-4608-8FB1-D2EAF2EF61D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B943A1-7EFC-45CC-8DAD-C3D7FA0ED70D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
