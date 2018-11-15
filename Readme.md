@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[AutoSelectNavigationItemController.cs](./CS/NavBarExample.Module.Web/Controllers/AutoSelectNavigationItemController.cs) (VB: [AutoSelectNavigationItemController.vb](./VB/NavBarExample.Module.Web/Controllers/AutoSelectNavigationItemController.vb))**
+<!-- default file list end -->
 # How to raise XAF callbacks from client-side events and process them on the server?
 
 
